@@ -36,8 +36,5 @@ This solution uses the Groq API with the best available Llama model (`llama-3.1-
 - Each output includes: question ID, question, target source, generated SQL, assumptions, and confidence score.
 
 ## Notes
-- The pipeline always uses the best Llama model available (no user selection required).
+- The pipeline always uses the best Llama model.
 - You can add or modify questions in `questions.csv` and rerun the script.
-
-## License
-MIT
