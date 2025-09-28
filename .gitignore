@@ -1,0 +1,8 @@
+dist/
+downloads/
+eggs/
+sdist/
+.env
+.env.*
+output/
+*.csv
